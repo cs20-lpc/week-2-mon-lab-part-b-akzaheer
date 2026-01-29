@@ -2,6 +2,7 @@
 #include <string>
 using namespace std;
 #include "Student.h"
+#include "Student.cpp"
 
 /*******************************************************************************
  * Function prototypes
